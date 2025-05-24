@@ -1,0 +1,16 @@
+[
+    {
+      "color": "0000FF",
+      "dopname": "(X3 АКЦИИ)",
+      "maxonline": 500,
+      "name": "Phantom",
+      "online": 241
+    },
+    {
+      "color": "FFFFFF",
+      "dopname": "(НЕТ ДОСТУПА)",
+      "maxonline": 0,
+      "name": "TEST",
+      "online": 0
+    }
+  ]
