@@ -1,16 +1,19 @@
 [
     {
-      "color": "0000FF",
-      "dopname": "(X3 АКЦИИ)",
-      "maxonline": 500,
+      "ip": "141.95.234.21",
+      "port": 1177,
+      "x2": "true",
       "name": "Phantom",
-      "online": 241
+      "online": 257,
+      "maxonline": 500
     },
-    {
-      "color": "FFFFFF",
-      "dopname": "(НЕТ ДОСТУПА)",
-      "maxonline": 0,
+
+     {
+      "ip": "94.198.51.12",
+      "port": 1237,
+      "x2": "false",
       "name": "TEST",
-      "online": 0
+      "online": 0,
+      "maxonline": 0
     }
-  ]
+ ]
