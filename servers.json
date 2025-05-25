@@ -1,16 +1,18 @@
 [
     {
+      "action": true,
       "color": "0000FF",
-      "dopname": "(X4 Донат!)",
+      "name": "PHANTOM",
+      "online": 128,
       "maxonline": 500,
-      "name": "Phantom",
-      "online": 129
+      "lock": false
     },
     {
+      "action": false,
       "color": "FFFFFF",
-      "dopname": "(НЕТ ДОСТУПА)",
-      "maxonline": 0,
       "name": "TEST",
-      "online": 0
+      "online": 0,
+      "maxonline": 0,
+      "lock": true
     }
   ]
